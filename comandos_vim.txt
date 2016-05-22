@@ -1,0 +1,83 @@
+Modo de insercao:
+ i/insert - entra no modo de insercao
+ a - insercao um caracter a frente
+ o - modo de insercao uma linha abaixo
+
+ k - sobe uma linha
+ j - desce uma linha
+ h - um caracter a esquerda
+ l - um caracter a direita
+
+ x - salva e sai
+ wq - salva e sai
+ ZZ - salva e sai
+
+ q! - sai sem salvar
+ ZQ - sai sem salvar
+
+ gg - comeco do arquivo
+  G - vai pro fim do arquivo
+  G - vai pro fim do arquivo
+  G - vai pro fim do arquivo
+
+ yy - copia uma linha
+  p - cola na linha baixo
+ dd - apaga uma linha
+ cc - corta e entra no modo de insercao
+  u - desfaz a ultima acao
+ ctrl+R - refaz a ultima acao
+
+  / - busca uma palavra
+  v - entra no modo visual
+
+Componentes do vim:
+set  nohlsearch - grifa a palavra buscada
+set  incsearch - busca incremental
+set  number - numera as linhas
+set  cul - sublinha a linha atual
+set  ic  - ignora case sensitive
+syntax on - ativa coloracao das palavras
+
+Gerenciar tela no vim:
+ split - divide a tela na horizontal
+ vsplit- divide a tela na vertical
+ ctrl+ww - navega entre as telas do vim
+ tabnew - abre uma aba no vim
+ gt - navega entre as abas
+ %s/ORIGEM/DESTINO/g - substitui palavras no vim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
